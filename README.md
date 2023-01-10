@@ -10,6 +10,7 @@ redshift xfce4-panel nodejs ripgrep fd diskonaut xf86-video-amdgpu ansible tree
 vim fish bspwm sxhkd fzf nnn shellcheck syncthing viewnior git rsync mousepad
 virtualbox thunderbird chromium pcmanfm dmenu feh jq vagrant docker
 grub-btrfs evince qbittorrent alacritty xdotool mesa p7zip jre-openjdk
+flameshot
 
 ### AUR Packages
 
